@@ -4,7 +4,9 @@
 
 A Household savings and expenditure (HSE) management system for recording income, expenses, loans, and budget management.
 
-![pic4](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/7.png)
+![pic4](https://github.com/RechRaj/Finance_Management_System/blob/main/images/7.png)
+
+
 
 ## Table of Contents
 
@@ -70,21 +72,21 @@ The Household savings and expenditure Management System is a system used to auto
 
 Users's pages
 
-![Login](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/5.png)
+![Login](https://github.com/RechRaj/Finance_Management_System/blob/main/images/5.png)
 
-![pic1](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/6.png)
+![pic1](https://github.com/RechRaj/Finance_Management_System/blob/main/images/6.png)
 
-![pic2](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/4.png)
+![pic2](https://github.com/RechRaj/Finance_Management_System/blob/main/images/4.png)
 
-![pic3](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/3.png)
+![pic3](https://github.com/RechRaj/Finance_Management_System/blob/main/images/3.png)
 
-![pic4](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/2.png)
+![pic4](https://github.com/RechRaj/Finance_Management_System/blob/main/images/2.png)
 
 
 
 ### Admin View
 
-![pic5](https://github.com/RechRaj/Savings-Management-DBMS-project/blob/main/images/1.png)
+![pic5](https://github.com/RechRaj/Finance_Management_System/blob/main/images/1.png)
 
 ## Conclusion
 
