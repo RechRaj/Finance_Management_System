@@ -1,4 +1,4 @@
-# Savings-Management-DBMS-project
+# Savings-Management-full stack-project
 
 # AINSOFT - Savings and Expense Management
 
